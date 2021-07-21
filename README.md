@@ -2,11 +2,7 @@
 
 
 
-Nesse projeto proposto pela plataforma **Digital Innovation One**
-
-Foi solicitado um *CRUD* em *Java* utilizando o protocolo JDBC com banco de dados MySQL
-
-
+***CRUD*** em ***Java*** utilizando o protocolo **JDBC** com banco de dados **MySQL** para o curso JDBC da **Digital Innovation One**.
 
 [Acesso ao curso aqui](https://web.digitalinnovation.one/course/trabalhando-com-banco-de-dados-utilizando-jdbc-e-jpa/learning/36caf662-304d-444b-978d-958d79bb5a9a?back=/track/santander-fullstack-developer)
 
