@@ -13,7 +13,7 @@ public class ConnectionFactory {
     private static final String USERNAME = "root";
 
     /**Senha do usuario do DB**/
-    private static final String PASSWORD = "131214";
+    private static final String PASSWORD = "1234";
 
     /**Protocolo, SGBD, Caminho do DB, porta,nome DB **/
     private static final String DATABASE_URL = "jdbc:mysql://localhost:3306/dio";
